@@ -57,26 +57,56 @@ Participator 								         		    December 2017
 Exhibition of the course “Learning by Doing”: constructions of glassware, chairs and doors handles, made of wood and with the corresponding sketches.  
 
 
-CO-CURRICULAR ACTIVITIES
+<h3>CO-CURRICULAR ACTIVITIES</h3>
 
-Member IE University Art Lab Society: Participating in creative activities (Segovia, June 2018 - Current) 
-Additional Seminar: “BRAIN INFLUENCE: why do we buy what we buy” 
-Volunteer experience: Fondazione Magica-Cleme: supervised a team aimed at fundraising activities for children with cancer( Milan/Italy, April 2015), Fondazione Theodora Milano: volunteer management in fundraising activities for children with neurological problems (Milan/Italy, May 2016) 
+<h4>Additional Seminar</h4>
+<ul>
+  <li>“BRAIN INFLUENCE: why do we buy what we buy”</li>
+</ul>
+
+<h4>Volunteer experience</h4>
+<ul>
+  <li>Fondazione Magica-Cleme: supervised a team aimed at fundraising activities for children with cancer( Milan/Italy, April 2015)</li>
+  <li>Fondazione Theodora Milano: volunteer management in fundraising activities for children with neurological problems (Milan/Italy, May 2016)</li>
+</ul>
 
 
-ADDITIONAL INFORMATION
+<h3>ADDITIONAL INFORMATION</h3>
  
-Languages: Italian (Native), English (Proficiency), Spanish (Intermediate)  
-Computer Skills: Advance user of MS Office for Mac and Windows, in-design software, Photoshop software, Illustrator software 
-Other courses:
-College Seminar on “Brain Influence: Why do we buy what we buy” IE UNIVERSITY (Segovia/Spain, Month 2018).
-Pre-college course: CISS Trinity Program. TRINITY COLLEGE ( Canada, July 2015 – August 2015)
-Pre-college course: Fashion Design & Styling Summer School. UNIVERSITY OF THE ARTS LONDON, CENTRAL SAINT MARTINS ( London July 2013)
-Pre-college course: Art and Design: RINGLING COLLEGE OF ART AND DESIGN (USA, June-July 2016)
-Theatre and Drama course at “Fondazione Palazzo Litta, for the Arts Onlus” (Milan/Italy, 2013)
+<h4>Languages</h4>
+<ul>
+  <li>Italian (Native)</li>
+  <li>English (Proficiency)</li>
+  <li>Spanish (Intermediate)</li>
+</ul>
 
-Awards and Qualifications: Awarded with the “Galdus Literary Prize of the Lombardy Region fsor Art”: "Il Cibo dell’Anima - The Food of the Soul” (year 2015), IELTS Certification
-Hobbies: Previous member of a Ski Team in Switzerland and competed at a regional level (St.Moritz / Switzerland, 2007-2014)
+<h4>Computer Skills</h4>
+<ul>
+  <li>Advance user of MS Office for Mac and Windows</li>
+  <li>Advance user of in-design software</li>
+  <li>Advance user of Photoshop software</li>
+  <li>Advance user of Illustrator software</li> 
+</ul>
+
+<h4>Other Courses</h4>
+<ul>
+  <li>College Seminar on “Brain Influence: Why do we buy what we buy” IE UNIVERSITY (Segovia/Spain, Month 2018).</li>
+  <li>Pre-college course: CISS Trinity Program. TRINITY COLLEGE ( Canada, July 2015 – August 2015).</li>
+  <li>Pre-college course: Fashion Design & Styling Summer School. UNIVERSITY OF THE ARTS LONDON, CENTRAL SAINT MARTINS ( London July 2013).</li>
+  <li>Pre-college course: Art and Design: RINGLING COLLEGE OF ART AND DESIGN (USA, June-July 2016).</li>
+  <li>Theatre and Drama course at “Fondazione Palazzo Litta, for the Arts Onlus” (Milan/Italy, 2013).</li>
+</ul>
+
+<h4>Awards and Qualifications</h4>
+<ul>
+  <li>Awarded with the “Galdus Literary Prize of the Lombardy Region fsor Art”: "Il Cibo dell’Anima - The Food of the Soul” (year 2015)</li>
+  <li>IELTS Certification</li>
+</ul>
+
+<h4>Hobbies</h4>
+<ul>
+  <li>Previous member of a Ski Team in Switzerland and competed at a regional level (St.Moritz / Switzerland, 2007-2014)</li>
+</ul>
 
 </body>
 </html>
