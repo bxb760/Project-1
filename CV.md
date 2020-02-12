@@ -28,7 +28,7 @@ Italian Baccalaureate (Maturità) 					  	          September 2012 – July 2017
 
 <h4>MASSIMO BONINI</h4>
 <p><em>Milan, Italy | May 2019 - September 2019</em></p>
-<p><strong>Designer</strong>/</p>
+<p><em>Designer</em></p>
 <ul>
   <li>Created the logo of Massimo Bonini, which was then displayed at the entrance of the store.</li>
   <li>Managed their website.</li>
@@ -39,28 +39,28 @@ Italian Baccalaureate (Maturità) 					  	          September 2012 – July 2017
 
 <h4>LEAP Conference</h4>
 <p><em>Madrid, Spain | March 2019</em></p>
-<p><strong>Designer</strong>/</p>
+<p><em>Designer</em></p>
 <ul>
   <li>Collaborated with the “LEAP" team at IE university, designing the posters and visual aspect of it.</li>
 </ul>
 
 <h4>Fjord Design</h4>
 <p><em>Madrid, Spain | March 2019</em></p>
-<p><strong>Lecture</strong>/</p>
+<p><em>Lecture</em></p>
 <ul>
   <li>Under the guidance of IE University,Analyzed the different techniques to get a conclusion report with design solutions on project based on orphans.</li>
 </ul>
 
 <h4>IE University - Design Exhibition Casa de la Moneda</h4> 
 <p><em>Segovia, Spain | December 2018</em></p>
-<p><strong>Participator</strong>/</p>
+<p><em>Participator</em></p>
 <ul>
   <li>Exhibition of the course “Design Studio I”: represented an entire branding process of a design project.</li>
 </ul>
 
 <h4>RBA Design</h4>
 <p><em>Milan, Italy | June 2018 – July 2018</em></p>
-<p><strong>Brand Strategy Intern </strong>/</p>
+<p><em>Brand Strategy Intern</em></p>
 <ul>
   <li>Developed “Tocco Italiano project” through market research and data analysis on the Italian Brand Identity</li>
   <li>Prepared and due diligence for discussion material and company presentations for Aperol and Campari for use in marketing strategy. Participated in the elaboration of conclusion final report about company profiles as well as industry and market analysis</li>
@@ -69,7 +69,7 @@ Italian Baccalaureate (Maturità) 					  	          September 2012 – July 2017
 
 <h4>IE University - Design Exhibition Casa de la Moneda</h4>
 <p><em>Segovia, Spain | December 2017</em></p>
-<p><strong>Participator</strong>/</p>
+<p><em>Participator</em></p>
 <ul>
   <li>Exhibition of the course “Learning by Doing”: constructions of glassware, chairs and doors handles, made of wood and with the corresponding sketches.</li>
 </ul>
