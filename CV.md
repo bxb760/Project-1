@@ -10,10 +10,10 @@
 <h1>CV</h1>
 <h6>Bianca Bracchetti | Madrid, Spain | +39 3427309721 | biancabracchetti@yahoo.it</h6>
 
-<h3>PROFESSIONAL OBJECTIVE</h3>
+<h2>PROFESSIONAL OBJECTIVE</h2>
 <p>Highly motivated, hard-working and team leader student, with a strong international background. Looking to pursue a career in the marketing-related sector.</p>
 
-<h3>EDUCATION</h3>
+<h2>EDUCATION</h2>
 <p><strong>IE University</strong></hp>
 <p>Bachelor in Design / Madrid, Spain / Expected: July 2021 / GPA: 7.63/10.00</p>
 
@@ -23,7 +23,7 @@
 <p><strong>Liceo Artistico Orsoline di San Carlo</strong></p> 
 <p>Italian Baccalaureate (Maturità) / Milan, Italy / September 2012 – July 2017</p> 
 
-<h3>PROFESSIONAL EXPERIENCE</h3>
+<h2>PROFESSIONAL EXPERIENCE</h2>
 
 <h4>MASSIMO BONINI</h4>
 <p><em>Milan, Italy | May 2019 - September 2019</em></p>
@@ -74,7 +74,7 @@
 </ul>
 
 
-<h3>CO-CURRICULAR ACTIVITIES</h3>
+<h2>CO-CURRICULAR ACTIVITIES</h2>
 
 <h4>Additional Seminar</h4>
 <ul>
@@ -88,7 +88,7 @@
 </ul>
 
 
-<h3>ADDITIONAL INFORMATION</h3>
+<h2>ADDITIONAL INFORMATION</h2>
  
 <h4>Languages</h4>
 <ul>
