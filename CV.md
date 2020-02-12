@@ -24,37 +24,55 @@ Liceo Artistico Orsoline di San Carlo 						                         Milan, Ital
 Italian Baccalaureate (Maturità) 					  	          September 2012 – July 2017 
 
 
-PROFESSIONAL EXPERIENCE
+<h3>PROFESSIONAL EXPERIENCE</h3>
 
-MASSIMO BONINI 									            Milan, Italy
-Designer								          May 2019 - September 2019 
-Created the logo of Massimo Bonini, which was then displayed at the entrance of the store.
-Managed their website.
-Created illustrations that have been placed on the home page of the website, as a representative figure of their 30 years, posted in the magazine Vogue Italy and Gentleman.
-Created an invitation for the fashion brand Sebastian and followed the photographic aspect of the new collection.
-Created the invitation and managed the presentation for the fashion brand Gedebe (which took place in Irving, Texas). 
+<h4>MASSIMO BONINI</h4>
+<p><em>Milan, Italy | May 2019 - September 2019</em></p>
+<p><strong>Designer</strong>/</p>
+<ul>
+  <li>Created the logo of Massimo Bonini, which was then displayed at the entrance of the store.</li>
+  <li>Managed their website.</li>
+  <li>Created illustrations that have been placed on the home page of the website, as a representative figure of their 30 years, posted in the magazine Vogue Italy and Gentleman.</li>
+  <li>Created an invitation for the fashion brand Sebastian and followed the photographic aspect of the new collection.</li>
+  <li>Created the invitation and managed the presentation for the fashion brand Gedebe (which took place in Irving, Texas).</li> 
+</ul>
 
-LEAP Conference 								            	       Madrid, Spain
-Designer								         		           March 2019  
-Collaborated with the “LEAP" team at IE university, designing the posters and visual aspect of it. 
+<h4>LEAP Conference</h4>
+<p><em>Madrid, Spain | March 2019</em></p>
+<p><strong>Designer</strong>/</p>
+<ul>
+  <li>Collaborated with the “LEAP" team at IE university, designing the posters and visual aspect of it.</li>
+</ul>
 
-Fjord Design  								              	       Madrid, Spain
-Lecture									         		           March 2019  
-Under the guidance of IE University,Analyzed the different techniques to get a conclusion report with design solutions on project based on orphans.  
+<h4>Fjord Design</h4>
+<p><em>Madrid, Spain | March 2019</em></p>
+<p><strong>Lecture</strong>/</p>
+<ul>
+  <li>Under the guidance of IE University,Analyzed the different techniques to get a conclusion report with design solutions on project based on orphans.</li>
+</ul>
 
-IE University - Design Exhibition Casa de la Moneda  		              	     Segovia, Spain
-Participator 								         		    December 2018  
-Exhibition of the course “Design Studio I”: represented an entire branding process of a design project. 
+<h4>IE University - Design Exhibition Casa de la Moneda</h4> 
+<p><em>Segovia, Spain | December 2018</em></p>
+<p><strong>Participator</strong>/</p>
+<ul>
+  <li>Exhibition of the course “Design Studio I”: represented an entire branding process of a design project.</li>
+</ul>
 
-RBA Design 						 		              	            Milan, Italy
-Brand Strategy Intern  							                   June 2018 – July 2018   
-Developed “Tocco Italiano project” through market research and data analysis on the Italian Brand Identity
-Prepared and due diligence for discussion material and company presentations for Aperol and Campari for use in marketing strategy. Participated in the elaboration of conclusion final report about company profiles as well as industry and market analysis
-Developed brand strategy projects with advance in-design and photoshop software applications  
+<h4>RBA Design</h4>
+<p><em>Milan, Italy | June 2018 – July 2018</em></p>
+<p><strong>Brand Strategy Intern </strong>/</p>
+<ul>
+  <li>Developed “Tocco Italiano project” through market research and data analysis on the Italian Brand Identity</li>
+  <li>Prepared and due diligence for discussion material and company presentations for Aperol and Campari for use in marketing strategy. Participated in the elaboration of conclusion final report about company profiles as well as industry and market analysis</li>
+  <li>Developed brand strategy projects with advance in-design and photoshop software applications</li> 
+</ul>
 
-IE University - Design Exhibition Casa de la Moneda  		              	     Segovia, Spain
-Participator 								         		    December 2017
-Exhibition of the course “Learning by Doing”: constructions of glassware, chairs and doors handles, made of wood and with the corresponding sketches.  
+<h4>IE University - Design Exhibition Casa de la Moneda</h4>
+<p><em>Segovia, Spain | December 2017</em></p>
+<p><strong>Participator</strong>/</p>
+<ul>
+  <li>Exhibition of the course “Learning by Doing”: constructions of glassware, chairs and doors handles, made of wood and with the corresponding sketches.</li>
+</ul>
 
 
 <h3>CO-CURRICULAR ACTIVITIES</h3>
