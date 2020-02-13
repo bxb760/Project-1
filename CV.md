@@ -20,7 +20,7 @@
 <p><strong><a href="https://welcome.miami.edu">University of MIAMI</a></strong></hp>
 <p>Miami, Florida/ Study abroad program / Exchange: Spring 2020</p>
 
-<p><strong>Liceo Artistico Orsoline di San Carlo</strong></p> 
+<p><strong><a href="https://www.artisticorsoline.it">Liceo Artistico Orsoline di San Carlo</a></strong></p> 
 <p>Italian Baccalaureate (Maturità) / Milan, Italy / September 2012 – July 2017</p> 
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
