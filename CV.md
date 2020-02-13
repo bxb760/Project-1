@@ -14,10 +14,10 @@
 <p>Highly motivated, hard-working and team leader student, with a strong international background. Looking to pursue a career in the marketing-related sector.</p>
 
 <h2>EDUCATION</h2>
-<p><strong>IE University</strong></hp>
+<p><strong><a href="https://landings.ie.edu/bachland-uni-bachelor-design">IE University</a></strong></hp>
 <p>Bachelor in Design / Madrid, Spain / Expected: July 2021 / GPA: 7.63/10.00</p>
 
-<p><strong>University of MIAMI</strong></hp>
+<p><strong><a href="https://welcome.miami.edu">University of MIAMI</a></strong></hp>
 <p>Miami, Florida/ Study abroad program / Exchange: Spring 2020</p>
 
 <p><strong>Liceo Artistico Orsoline di San Carlo</strong></p> 
