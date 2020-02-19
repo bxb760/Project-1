@@ -8,7 +8,12 @@
 
 <body>
 <h1>CV</h1>
-<h6>Bianca Bracchetti | Madrid, Spain | +39 3427309721 | biancabracchetti@yahoo.it</h6>
+<ul>
+  <li>Bianca Bracchetti</li>
+  <li>Madrid, Spain</li>
+  <li>+39 3427309721</li>
+  <li>biancabracchetti@yahoo.it</li>
+</ul>
 
 <h2>PROFESSIONAL OBJECTIVE</h2>
 <p>Highly motivated, hard-working and team leader student, with a strong international background. Looking to pursue a career in the marketing-related sector.</p>
