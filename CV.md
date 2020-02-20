@@ -23,13 +23,32 @@
 
 <h2>EDUCATION</h2>
 <p><strong><a href="https://landings.ie.edu/bachland-uni-bachelor-design">IE University</a></strong></hp>
-<p>Bachelor in Design / Madrid, Spain / Expected: July 2021 / GPA: 7.63/10.00</p>
+<table>
+  <tr>
+    <th>Bachelor in Design</th>
+    <th>Madrid, Spain</th>
+    <th>Expected: July 2021</th>
+    <th>GPA: 7.63/10.00</th>
+</tr>
+</table>
 
 <p><strong><a href="https://welcome.miami.edu">University of MIAMI</a></strong></hp>
-<p>Miami, Florida/ Study abroad program / Exchange: Spring 2020</p>
+<table>
+  <tr>
+    <th>Study abroad program</th>
+    <th>Miami, Florida</th>
+    <th>Exchange: Spring 2020</th>
+</tr>
+</table>
 
-<p><strong><a href="https://www.artisticorsoline.it">Liceo Artistico Orsoline di San Carlo</a></strong></p> 
-<p>Italian Baccalaureate (Maturità) / Milan, Italy / September 2012 – July 2017</p> 
+<p><strong><a href="https://www.artisticorsoline.it">Liceo Artistico Orsoline di San Carlo</a></strong></p>  
+<table>
+  <tr>
+    <th>Italian Baccalaureate (Maturità)</th>
+    <th>Milan, Italy</th>
+    <th>September 2012 – July 2017</th>
+</tr>
+</table>
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
