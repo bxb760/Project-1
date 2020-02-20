@@ -7,7 +7,10 @@
 </head>
 
 <body>
+  <header>
 <h1>CV</h1>
+  </header>
+  
 <table>
   <tr>
     <th>Bianca Bracchetti</th>
@@ -17,7 +20,8 @@
 </tr>
 </table>
 <img src="IMG_4248.jpg" alt="bianca">
- 
+
+<main> 
 <h2>PROFESSIONAL OBJECTIVE</h2>
 <p>Highly motivated, hard-working and team leader student, with a strong international background. Looking to pursue a career in the marketing-related sector.</p>
 
@@ -152,5 +156,14 @@
   <li>Previous member of a Ski Team in Switzerland and competed at a regional level (St.Moritz / Switzerland, 2007-2014)</li>
 </ul>
 
+</main>
+<footer>
+  <ul>
+    <li>Bianca Bracchetti</li>
+    <li>Madrid, Spain</li>
+    <li>+39 3427309721</li>
+    <li>biancabracchetti@yahoo.it</li>
+</ul>
+  </footer>
 </body>
 </html>
