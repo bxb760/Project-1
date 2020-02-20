@@ -16,6 +16,7 @@
     <th>biancabracchetti@yahoo.it</th>
 </tr>
 </table>
+<img src="IMG_4248.PNG" alt="bianca">
  
 <h2>PROFESSIONAL OBJECTIVE</h2>
 <p>Highly motivated, hard-working and team leader student, with a strong international background. Looking to pursue a career in the marketing-related sector.</p>
@@ -134,4 +135,3 @@
 
 </body>
 </html>
-
