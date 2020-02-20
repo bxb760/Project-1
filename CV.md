@@ -8,12 +8,12 @@
 
 <body>
   <header>
-<h1>CV</h1>
+<h1>Bianca Bracchetti</h1>
   </header>
   
 <table>
   <tr>
-    <th>Bianca Bracchetti</th>
+    <th>Designer</th>
     <th>Madrid, Spain</th>
     <th>+39 3427309721</th>
     <th>biancabracchetti@yahoo.it</th>
