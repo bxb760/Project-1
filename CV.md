@@ -57,7 +57,7 @@
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
 <h4>MASSIMO BONINI</h4>
-<p><em>Milan, Italy | May 2019 - September 2019</em></p>
+<p><em>Milan, Italy - May 2019 - September 2019</em></p>
 <p><em>Designer</em></p>
 <ul>
   <li>Created the logo of Massimo Bonini, which was then displayed at the entrance of the store.</li>
@@ -68,14 +68,14 @@
 </ul>
 
 <h4>LEAP Conference</h4>
-<p><em>Madrid, Spain | March 2019</em></p>
+<p><em>Madrid, Spain - March 2019</em></p>
 <p><em>Designer</em></p>
 <ul>
   <li>Collaborated with the “LEAP" team at IE university, designing the posters and visual aspect of it.</li>
 </ul>
 
 <h4>Fjord Design</h4>
-<p><em>Madrid, Spain | March 2019</em></p>
+<p><em>Madrid, Spain - March 2019</em></p>
 <p><em>Lecture</em></p>
 <ul>
   <li>Under the guidance of IE University,Analyzed the different techniques to get a conclusion report with design solutions on project based on orphans.</li>
@@ -89,7 +89,7 @@
 </ul>
 
 <h4>RBA Design</h4>
-<p><em>Milan, Italy | June 2018 – July 2018</em></p>
+<p><em>Milan, Italy - June 2018 – July 2018</em></p>
 <p><em>Brand Strategy Intern</em></p>
 <ul>
   <li>Developed “Tocco Italiano project” through market research and data analysis on the Italian Brand Identity</li>
