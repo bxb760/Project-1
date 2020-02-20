@@ -157,7 +157,9 @@
 </ul>
 
 </main>
+
 <footer>
+  <h4>Contact Information</h4>
   <ul>
     <li>Bianca Bracchetti</li>
     <li>Madrid, Spain</li>
